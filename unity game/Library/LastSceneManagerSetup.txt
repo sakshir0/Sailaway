@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Crest-Examples/BoatDev/Scenes/boat.unity
+  isLoaded: 1
+  isActive: 1
