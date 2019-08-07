@@ -13,3 +13,6 @@ The VR game is built in Unity and it works with the HTC Vive VR controllers and 
 - [Unity](https://unity.com/)
 - [HTC Vive](https://www.vive.com/us/)
 - [Arduino](https://www.arduino.cc/)
+
+## Video Demo ##
+https://www.youtube.com/watch?v=4jDGh83YB1s
